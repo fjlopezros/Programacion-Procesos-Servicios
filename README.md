@@ -6,11 +6,12 @@ Este repositorio contiene todos los ejercicios realizados durante el curso de Pr
 
 ### **Primer Trimestre**
 
-#### **Tema 1**: 
+#### **Tema 1**: Procesos
 ##### **Máquinas Virtuales**
 - Implementación de un pequeño menú que proporciona información sobre máquinas virtuales existentes o en ejecución.
 - Permite la creación sencilla de una nueva máquina virtual.
-##### **Proyecto**: Aplicación con interfaz que permite seleccionar un archivo `.txt`, cargar sus datos y distribuirlos en dos categorías: usuario o registro. Posteriormente, permite descargar los datos filtrados según la categoría seleccionada.
+##### **Proyecto**
+- Aplicación con interfaz que permite seleccionar un archivo `.txt`, cargar sus datos y distribuirlos en dos categorías: usuario o registro. Posteriormente, permite descargar los datos filtrados según la categoría seleccionada.
 
 #### **Tema 2: Hilos y Concurrencia**
 - Ejercicios con:
